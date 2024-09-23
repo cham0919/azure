@@ -1,2 +1,2 @@
 # azure
-azure제출횽
+azure제출용
